@@ -6,12 +6,13 @@ and the paper submitted to JCS.
 Only for academic research.
 
 The folders 21, 25, 33 are the QR codes used in the experiments of QRFC.
-The corresponding experiment code is in MainSplit.cpp, wrote in C#.
+The corresponding experiment code is in the folder EQRC, wrote in C#. 
 The .ned, .xml nad .ini files are used to simulate the communication.
 
 #### For the details, we refer to the papers.
 
 We are grateful for any suggestions and comments to our work.
-The whole framework is quiet complex. We will enrich the codes as much as we can to achieve the whole application.
+The whole framework is quiet complex. We will enrich the code as much as we can to achieve the whole application.
+If you have any question about the code, feel free to contact the authors.
 
 #### Any questions or comments are welcomed. Please feel free to contact the authors.
